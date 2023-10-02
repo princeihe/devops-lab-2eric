@@ -1,4 +1,3 @@
-import array
 list = []
 n = int(input('How many numbers: '))
 total = 0
